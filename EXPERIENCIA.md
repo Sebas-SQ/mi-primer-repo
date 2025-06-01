@@ -9,7 +9,7 @@ Conclusiones  -- Sebastian Silva Quintos
 
 
 ##  Dificultades
-En general las dicultades encontradas fueron el desconocimiento del usos de diferentes funciones del programa, pero nada
+En general las dicultades encontradas fueron causa del desconocimiento del usos de diferentes funciones del programa, pero nada
 que la prueba y error no solucionen =), estos fueron algunos de las dificutades que me encontre con esta actividad:
 - Entender los errores al hacer `git push` cuando el repositorio remoto tiene commits previos, en general entender los
 - errores que manda el bash.
