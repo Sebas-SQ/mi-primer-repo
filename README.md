@@ -1,4 +1,4 @@
-# Mi Primer Repositorio
+# Mi Primer Repositorio                      ---Sebastian Silva Quintos
 
 Este es un proyecto de práctica para aprender Git y GitHub.
 
